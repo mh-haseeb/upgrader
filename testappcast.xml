@@ -14,13 +14,13 @@
         </item>
 
         <item>
-            <title>Version 1.0.7</title>
-            <description>Minor updates and improvements.</description>
-            <pubDate>Wed, 12 Feb 2025 12:00:00 +0000</pubDate>
+            <title>Version 1.0.9</title>
+            <description>Minor UI fixes.</description>
+            <pubDate>Fri, 11 Apr 2025 12:00:00 +0000</pubDate>
             <enclosure
                 url="https://apps.apple.com/us/app/peekamoji/id6504112788"
-                sparkle:version="1.0.7"
-                sparkle:shortVersionString="1.0.7"
+                sparkle:version="1.0.9"
+                sparkle:shortVersionString="1.0.9"
                 sparkle:os="ios" />
         </item>
     </channel>
